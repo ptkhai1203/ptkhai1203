@@ -4,4 +4,4 @@ I'm Khai, currently studying Computer Science at Ho Chi Minh University of Scien
 
 ![](https://raw.githubusercontent.com/ptkhai1203/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/ptkhai1203/github-stats/master/generated/languages.svg#gh-dark-mode-only)
